@@ -2,11 +2,11 @@
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png
 http://contenido-ofrecido-por-bitly-
 josepimbatv@vlc.shickat.me:8000/pid/c9321006921967d6258df6945f1d598a5c0cbf1e/stream.mp4
-#EXTINF:-1 group-title="amateur",LA LIGA TV
+#EXTINF:-1 group-title="amateur",LA LIGA TV (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png
 http://contenido-ofrecido-por-bitly-
 josepimbatv@vlc.shickat.me:8000/pid/4b528d10eaad747ddf52251206177573ee3e9f74/stream.mp4
-#EXTINF:-1 group-title="amateur",LA LIGA TV
+#EXTINF:-1 group-title="amateur",LA LIGA TV (2)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/zW18syR3/MLIGA.png
 http://contenido-ofrecido-por-bitly-
 josepimbatv@vlc.shickat.me:8000/pid/d4ff041287a43e3114d411d671c4b4e92e21f33y/stream.mp4
@@ -14,7 +14,7 @@ josepimbatv@vlc.shickat.me:8000/pid/d4ff041287a43e3114d411d671c4b4e92e21f33y/str
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png
 http://contenido-ofrecido-por-bitly-
 josepimbatv@vlc.shickat.me:8000/pid/51b363b1c4d42724e05240ad068ad219df8042ec/stream.mp4
-#EXTINF:-1 group-title="amateur",LA LIGA TV 2
+#EXTINF:-1 group-title="amateur",LA LIGA TV 2 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3m9ptCz4/MLIG1.png
 http://contenido-ofrecido-por-bitly-
 josepimbatv@vlc.shickat.me:8000/pid/ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8/stream.mp4
@@ -22,19 +22,19 @@ josepimbatv@vlc.shickat.me:8000/pid/ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8/str
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/mV2cQ3TZ/MLIG2.png
 http://contenido-ofrecido-por-bitly-
 josepimbatv@vlc.shickat.me:8000/pid/7ad14386deef2f45ffe17d30a631dbf79b6a1a87/stream.mp4
-#EXTINF:-1 group-title="amateur",LA LIGA TV 3
+#EXTINF:-1 group-title="amateur",LA LIGA TV 3 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/mV2cQ3TZ/MLIG2.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/382b14499e3d76e557d449d2e5bbc4e4bd63bd39/stream.mp4
 #EXTINF:-1 group-title="amateur",LA LIGA TV 4
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/vCgBHRBf/MLIG3.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/2a6b1fd8a24b23747db1ea534a51457708523602/stream.mp4
-#EXTINF:-1 group-title="amateur",LA LIGA TV 4
+#EXTINF:-1 group-title="amateur",LA LIGA TV 4 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/vCgBHRBf/MLIG3.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/1bcee22d5476f2eae9dc2cb24e3685152cf285cb/stream.mp4
 #EXTINF:-1 group-title="amateur",LA LIGA TV HYPERMOTION
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/igz04nkgrum87wy/MLIGS.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/87bb542f974b6b9e89d0f2e20ed6dc93426f4be0/stream.mp4
-#EXTINF:-1 group-title="amateur",LA LIGA TV HYPERMOTION
+#EXTINF:-1 group-title="amateur",LA LIGA TV HYPERMOTION (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@www.dl.dropboxusercontent.com/s/igz04nkgrum87wy/MLIGS.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/a4f072c9b614323ac1258a175f868a909ea3c8cd/stream.mp4
 #EXTINF:-1 group-title="amateur",LA LIGA TV HYPERMOTION 2
@@ -46,22 +46,22 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/778d2f60
 #EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES 4K
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/152169ce99e1fd27f2249c18384a121079cdef29/stream.mp4 
-#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES
+#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/97df5b7824948972d041d8ca2a4d29c90b641bc9/stream.mp4
-#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES
+#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES (2)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/2b51710cee513e8939785fa3e7980f32d4e0415f/stream.mp4
-#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES
+#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES (3)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/9db029dff6a9c637d1f670e78dbc1a479b9b406e/stream.mp4
-#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES
+#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES (4)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc/stream.mp4
-#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES
+#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES (5)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a/stream.mp4
-#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES
+#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES (6)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/gPrPrvK/CHAPIO.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/afbf2a479c5a5072698139f0f556ef3e77a99bd0/stream.mp4
 #EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES 2
@@ -76,7 +76,7 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/ea03cc51
 #EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES 3
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/5vrp6cD/CHAP2.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/4416843c96b7f7a1bc55c476091a60fff0922bc7/stream.mp4 
-#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES 3
+#EXTINF:-1 group-title="amateur",LIGA DE CAMPEONES 3 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/5vrp6cD/CHAP2.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/cfc371890bfb502737a26de5215e50929c52d0f9/stream.mp4
 #EXTINF:-1 group-title="amateur",DAZN LA LIGA
@@ -85,34 +85,34 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/e2b8a4ab
 #EXTINF:-1 group-title="amateur",DAZN LA LIGA
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/74defb8f4ed3a917fd07c21b34f43c17107ec618/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN LA LIGA
+#EXTINF:-1 group-title="amateur",DAZN LA LIGA (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/6Rvk8v2K/36861456-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f/stream.mp4
 #EXTINF:-1 group-title="amateur",DAZN LA LIGA 2
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n8YX3Z87/36861466-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/a231b2fa1f7754433efeb8bb8d69d7b9096dcba8/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN LA LIGA 2
+#EXTINF:-1 group-title="amateur",DAZN LA LIGA 2 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/n8YX3Z87/36861466-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/c976c7b37964322752db562b4ad65515509c8d36/stream.mp4
 #EXTINF:-1 group-title="amateur",DAZN F1
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN F1
+#EXTINF:-1 group-title="amateur",DAZN F1 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/bcf9dc38f92e90a71b87bd54b3bac91b76d09a69/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN F1
+#EXTINF:-1 group-title="amateur",DAZN F1 (2)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN F1
+#EXTINF:-1 group-title="amateur",DAZN F1 (3)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/fd53cfa7055fe458d4f5c0ff59a06cd43723be55/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN F1
+#EXTINF:-1 group-title="amateur",DAZN F1 (4)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/6422e8bc34282871634c81947be093c04ad1bb29/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN F1
+#EXTINF:-1 group-title="amateur",DAZN F1 (5)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/c9c18ae7a9dafba1caae5beb22060f9c92bba553/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN F1
+#EXTINF:-1 group-title="amateur",DAZN F1 (6)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/3YvN70S9/36861474-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/515efd8115482bda8d92aa6df9a882a5e5797494/stream.mp4
 #EXTINF:-1 group-title="amateur",DAZN BALONCESTO 1
@@ -127,7 +127,7 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/f4db7197
 #EXTINF:-1 group-title="amateur",DAZN 1
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/FkhZqYPT/36861527-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/7ba1f321f4d0791b7ebd42f41a07c1cd1479e784/stream.mp4
-#EXTINF:-1 group-title="amateur",DAZN 1
+#EXTINF:-1 group-title="amateur",DAZN 1 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/FkhZqYPT/36861527-ico.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/eb6ffec065b26259ad3d1811e0bbb0a5332ed276/stream.mp4
 #EXTINF:-1 group-title="amateur",DAZN 2
@@ -145,7 +145,7 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/599a2fda
 #EXTINF:-1 group-title="amateur",MOVISTAR PLUS
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/G3NZWRZg/Daco-796425.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/8c67cdb5ba81976662c3a67984a9545d9cfb0f70/stream.mp4
-#EXTINF:-1 group-title="amateur",MOVISTAR PLUS
+#EXTINF:-1 group-title="amateur",MOVISTAR PLUS (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/G3NZWRZg/Daco-796425.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/b6ffbbc72a5b6b579faf79ebac229af7a25b933b/stream.mp4
 #EXTINF:-1 group-title="amateur",MOVISTAR PLUS 2
@@ -154,7 +154,7 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/fbc39d8a
 #EXTINF:-1 group-title="amateur",VAMOS
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/TcZgLqR/VAMOSD.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/2940120bf034db79a7f5849846ccea0255172eae/stream.mp4
-#EXTINF:-1 group-title="amateur",VAMOS
+#EXTINF:-1 group-title="amateur",VAMOS (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/TcZgLqR/VAMOSD.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/0e5d8c9724fa9163f49096b70484e315251eb785/stream.mp4
 #EXTINF:-1 group-title="amateur",DEPORTES
@@ -163,7 +163,7 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/ebca4a63
 #EXTINF:-1 group-title="amateur",DEPORTES
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/ef9dcc4eaac36a0f608b52a31f8ab237859e071a/stream.mp4
-#EXTINF:-1 group-title="amateur",DEPORTES
+#EXTINF:-1 group-title="amateur",DEPORTES (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/2g6DGvZ/CPDEP.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/332d8fdeb9c51385230b8c9448e047ccc4a6355d/stream.mp4
 #EXTINF:-1 group-title="amateur",DEPORTES 2
@@ -181,19 +181,19 @@ http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/2fd410c5
 #EXTINF:-1 group-title="amateur",DEPORTES 4
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t2zbTn/USOP3.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/b40e1de2dcbd7c665f54877b14c830ed67b32a96/stream.mp4
-#EXTINF:-1 group-title="amateur",DEPORTES 4
+#EXTINF:-1 group-title="amateur",DEPORTES 4 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t2zbTn/USOP3.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/58a4c880ab18486d914751db32a12760e74b75a4/stream.mp4 
 #EXTINF:-1 group-title="amateur",DEPORTES 5
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/RjJVfKy/USOP11.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/7b361369a40046ad3011086f9d4ae2982fb4d5aa/stream.mp4
-#EXTINF:-1 group-title="amateur",DEPORTES 5
+#EXTINF:-1 group-title="amateur",DEPORTES 5 (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/RjJVfKy/USOP11.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/5913205fb6d6d162a50222709aab6129eb7cf916/stream.mp4
 #EXTINF:-1 group-title="amateur",GOLF
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/8546cff89e4ee8bf3ad31cf6457c3bc2c4341031/stream.mp4
-#EXTINF:-1 group-title="amateur",GOLF
+#EXTINF:-1 group-title="amateur",GOLF (1)
 #EXTIMG: "https://contenido-ofrecido-por-bitly-josepimbatv@i.ibb.co/0t4x1Zr/GOLF.png
 http://contenido-ofrecido-por-bitly-josepimbatv@vlc.shickat.me:8000/pid/9be118a64eb603b5eb62be6cf27631d3891b5174/stream.mp4
 #EXTINF:-1 group-title="amateur",NBA TV
